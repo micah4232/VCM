@@ -6,13 +6,13 @@
 		"timeout": 150
 	},
 	{
-		"name": "LuckPoolFailover1",
+		"name": "LuckPool",
         	"url": "stratum+tcp://na.luckpool.net:3956",
 		"timeout": 150
 	},
 	{
-		"name": "LuckPoolFailover2",
-        	"url": "stratum+tcp://na.luckpool.net:3957",
+		"name": "ZergPool",
+        	"url": "stratum+tcp://neoscrypt.mine.zergpool.com:4233",
 		"timeout": 150
 	}
 	],
